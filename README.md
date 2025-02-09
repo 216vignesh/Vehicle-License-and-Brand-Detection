@@ -12,7 +12,10 @@ Clone this repository and install all the required pre-requisities as mentioned 
 
 ## Usage
 Place the input video in the project folder. 
-Run the video processing script : readLicensePlateAndBrand.py, it will generata a tracking_results.json and tracked_output.avi file
+Run the video processing script : readLicensePlateAndBrand.py, it will generate a tracking_results.json and tracked_output.avi file
 
 Then to run the chatbot on Streamlit UI, use python script vehicleQAUI.py, for running on command line use vehicleQACmdLine.py
 It will create a chromadb vector db instance automatically in your project folder and you can use the chatbot. Note, the chatbot is not fully functional and some improvements can be made.
+
+Final video:
+https://www.youtube.com/watch?v=oOvu-CzE2n4
