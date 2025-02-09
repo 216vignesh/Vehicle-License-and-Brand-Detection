@@ -1,0 +1,1279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d8" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d7" for="node" attr.name="brand_name" attr.type="string"/>
+<key id="d6" for="node" attr.name="plate_number" attr.type="string"/>
+<key id="d5" for="node" attr.name="vehicle_id" attr.type="long"/>
+<key id="d4" for="node" attr.name="brand" attr.type="string"/>
+<key id="d3" for="node" attr.name="plate" attr.type="string"/>
+<key id="d2" for="node" attr.name="confidence" attr.type="double"/>
+<key id="d1" for="node" attr.name="frame" attr.type="long"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="vehicle_0">
+  <data key="d0">vehicle</data>
+  <data key="d1">9</data>
+  <data key="d2">90.596718</data>
+  <data key="d3">MD6723</data>
+  <data key="d4">Mercedes</data>
+  <data key="d5">0</data>
+</node>
+<node id="plate_MD6723">
+  <data key="d0">plate</data>
+  <data key="d6">MD6723</data>
+</node>
+<node id="brand_Mercedes">
+  <data key="d0">brand</data>
+  <data key="d7">Mercedes</data>
+</node>
+<node id="vehicle_14">
+  <data key="d0">vehicle</data>
+  <data key="d1">1673</data>
+  <data key="d2">88.110092</data>
+  <data key="d3">JSE4076</data>
+  <data key="d4">Honda</data>
+  <data key="d5">14</data>
+</node>
+<node id="plate_JSE4076">
+  <data key="d0">plate</data>
+  <data key="d6">JSE4076</data>
+</node>
+<node id="brand_Honda">
+  <data key="d0">brand</data>
+  <data key="d7">Honda</data>
+</node>
+<node id="vehicle_6">
+  <data key="d0">vehicle</data>
+  <data key="d1">69</data>
+  <data key="d2">87.750084</data>
+  <data key="d3">520605C</data>
+  <data key="d4">KIA</data>
+  <data key="d5">6</data>
+</node>
+<node id="plate_520605C">
+  <data key="d0">plate</data>
+  <data key="d6">520605C</data>
+</node>
+<node id="brand_KIA">
+  <data key="d0">brand</data>
+  <data key="d7">KIA</data>
+</node>
+<node id="vehicle_27">
+  <data key="d0">vehicle</data>
+  <data key="d1">71</data>
+  <data key="d2">84.908218</data>
+  <data key="d3">RDGH</data>
+  <data key="d4">unknown</data>
+  <data key="d5">27</data>
+</node>
+<node id="plate_RDGH">
+  <data key="d0">plate</data>
+  <data key="d6">RDGH</data>
+</node>
+<node id="brand_unknown">
+  <data key="d0">brand</data>
+  <data key="d7">unknown</data>
+</node>
+<node id="vehicle_5">
+  <data key="d0">vehicle</data>
+  <data key="d1">147</data>
+  <data key="d2">84.805885</data>
+  <data key="d3">JMG4726</data>
+  <data key="d4">Hyundai</data>
+  <data key="d5">5</data>
+</node>
+<node id="plate_JMG4726">
+  <data key="d0">plate</data>
+  <data key="d6">JMG4726</data>
+</node>
+<node id="brand_Hyundai">
+  <data key="d0">brand</data>
+  <data key="d7">Hyundai</data>
+</node>
+<node id="vehicle_16">
+  <data key="d0">vehicle</data>
+  <data key="d1">253</data>
+  <data key="d2">91.550392</data>
+  <data key="d3">NS7AZD</data>
+  <data key="d4">Volkswagen</data>
+  <data key="d5">16</data>
+</node>
+<node id="plate_NS7AZD">
+  <data key="d0">plate</data>
+  <data key="d6">NS7AZD</data>
+</node>
+<node id="brand_Volkswagen">
+  <data key="d0">brand</data>
+  <data key="d7">Volkswagen</data>
+</node>
+<node id="vehicle_54">
+  <data key="d0">vehicle</data>
+  <data key="d1">209</data>
+  <data key="d2">80.190224</data>
+  <data key="d3">110101</data>
+  <data key="d4">Ford</data>
+  <data key="d5">54</data>
+</node>
+<node id="plate_110101">
+  <data key="d0">plate</data>
+  <data key="d6">110101</data>
+</node>
+<node id="brand_Ford">
+  <data key="d0">brand</data>
+  <data key="d7">Ford</data>
+</node>
+<node id="vehicle_3">
+  <data key="d0">vehicle</data>
+  <data key="d1">237</data>
+  <data key="d2">80.406349</data>
+  <data key="d3">E0G35</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">3</data>
+</node>
+<node id="plate_E0G35">
+  <data key="d0">plate</data>
+  <data key="d6">E0G35</data>
+</node>
+<node id="brand_Toyota">
+  <data key="d0">brand</data>
+  <data key="d7">Toyota</data>
+</node>
+<node id="vehicle_18">
+  <data key="d0">vehicle</data>
+  <data key="d1">325</data>
+  <data key="d2">85.535378</data>
+  <data key="d3">HUZ809</data>
+  <data key="d4">Honda</data>
+  <data key="d5">18</data>
+</node>
+<node id="plate_HUZ809">
+  <data key="d0">plate</data>
+  <data key="d6">HUZ809</data>
+</node>
+<node id="vehicle_73">
+  <data key="d0">vehicle</data>
+  <data key="d1">326</data>
+  <data key="d2">84.734314</data>
+  <data key="d3">RIGHT</data>
+  <data key="d4">unknown</data>
+  <data key="d5">73</data>
+</node>
+<node id="plate_RIGHT">
+  <data key="d0">plate</data>
+  <data key="d6">RIGHT</data>
+</node>
+<node id="vehicle_82">
+  <data key="d0">vehicle</data>
+  <data key="d1">331</data>
+  <data key="d2">86.057869</data>
+  <data key="d3">RIGTL</data>
+  <data key="d4">unknown</data>
+  <data key="d5">82</data>
+</node>
+<node id="plate_RIGTL">
+  <data key="d0">plate</data>
+  <data key="d6">RIGTL</data>
+</node>
+<node id="vehicle_21">
+  <data key="d0">vehicle</data>
+  <data key="d1">357</data>
+  <data key="d2">87.152664</data>
+  <data key="d3">RUMIAPL</data>
+  <data key="d4">Mercedes</data>
+  <data key="d5">21</data>
+</node>
+<node id="plate_RUMIAPL">
+  <data key="d0">plate</data>
+  <data key="d6">RUMIAPL</data>
+</node>
+<node id="vehicle_26">
+  <data key="d0">vehicle</data>
+  <data key="d1">382</data>
+  <data key="d2">83.158836</data>
+  <data key="d3">E40650</data>
+  <data key="d4">Honda</data>
+  <data key="d5">26</data>
+</node>
+<node id="plate_E40650">
+  <data key="d0">plate</data>
+  <data key="d6">E40650</data>
+</node>
+<node id="vehicle_12">
+  <data key="d0">vehicle</data>
+  <data key="d1">550</data>
+  <data key="d2">84.640633</data>
+  <data key="d3">HYF37Z3</data>
+  <data key="d4">Honda</data>
+  <data key="d5">12</data>
+</node>
+<node id="plate_HYF37Z3">
+  <data key="d0">plate</data>
+  <data key="d6">HYF37Z3</data>
+</node>
+<node id="vehicle_41">
+  <data key="d0">vehicle</data>
+  <data key="d1">421</data>
+  <data key="d2">79.786674</data>
+  <data key="d3">0YF466</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">41</data>
+</node>
+<node id="plate_0YF466">
+  <data key="d0">plate</data>
+  <data key="d6">0YF466</data>
+</node>
+<node id="vehicle_25">
+  <data key="d0">vehicle</data>
+  <data key="d1">430</data>
+  <data key="d2">84.268799</data>
+  <data key="d3">AVN5449</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">25</data>
+</node>
+<node id="plate_AVN5449">
+  <data key="d0">plate</data>
+  <data key="d6">AVN5449</data>
+</node>
+<node id="vehicle_117">
+  <data key="d0">vehicle</data>
+  <data key="d1">626</data>
+  <data key="d2">85.767929</data>
+  <data key="d3">RDGHT</data>
+  <data key="d4">Rolls Royce</data>
+  <data key="d5">117</data>
+</node>
+<node id="plate_RDGHT">
+  <data key="d0">plate</data>
+  <data key="d6">RDGHT</data>
+</node>
+<node id="brand_Rolls Royce">
+  <data key="d0">brand</data>
+  <data key="d7">Rolls Royce</data>
+</node>
+<node id="vehicle_103">
+  <data key="d0">vehicle</data>
+  <data key="d1">494</data>
+  <data key="d2">86.118912</data>
+  <data key="d3">77337</data>
+  <data key="d4">Ford</data>
+  <data key="d5">103</data>
+</node>
+<node id="plate_77337">
+  <data key="d0">plate</data>
+  <data key="d6">77337</data>
+</node>
+<node id="vehicle_8">
+  <data key="d0">vehicle</data>
+  <data key="d1">500</data>
+  <data key="d2">86.306496</data>
+  <data key="d3">1759995C</data>
+  <data key="d4">Nissan</data>
+  <data key="d5">8</data>
+</node>
+<node id="plate_1759995C">
+  <data key="d0">plate</data>
+  <data key="d6">1759995C</data>
+</node>
+<node id="brand_Nissan">
+  <data key="d0">brand</data>
+  <data key="d7">Nissan</data>
+</node>
+<node id="vehicle_40">
+  <data key="d0">vehicle</data>
+  <data key="d1">771</data>
+  <data key="d2">84.586777</data>
+  <data key="d3">070565</data>
+  <data key="d4">Mahindra</data>
+  <data key="d5">40</data>
+</node>
+<node id="plate_070565">
+  <data key="d0">plate</data>
+  <data key="d6">070565</data>
+</node>
+<node id="brand_Mahindra">
+  <data key="d0">brand</data>
+  <data key="d7">Mahindra</data>
+</node>
+<node id="vehicle_92">
+  <data key="d0">vehicle</data>
+  <data key="d1">533</data>
+  <data key="d2">82.404488</data>
+  <data key="d3">JP5919</data>
+  <data key="d4">unknown</data>
+  <data key="d5">92</data>
+</node>
+<node id="plate_JP5919">
+  <data key="d0">plate</data>
+  <data key="d6">JP5919</data>
+</node>
+<node id="vehicle_69">
+  <data key="d0">vehicle</data>
+  <data key="d1">625</data>
+  <data key="d2">84.120552</data>
+  <data key="d3">HMM8568</data>
+  <data key="d4">Honda</data>
+  <data key="d5">69</data>
+</node>
+<node id="plate_HMM8568">
+  <data key="d0">plate</data>
+  <data key="d6">HMM8568</data>
+</node>
+<node id="vehicle_63">
+  <data key="d0">vehicle</data>
+  <data key="d1">1609</data>
+  <data key="d2">86.697662</data>
+  <data key="d3">17Z7967C</data>
+  <data key="d4">Chevrolet</data>
+  <data key="d5">63</data>
+</node>
+<node id="plate_17Z7967C">
+  <data key="d0">plate</data>
+  <data key="d6">17Z7967C</data>
+</node>
+<node id="brand_Chevrolet">
+  <data key="d0">brand</data>
+  <data key="d7">Chevrolet</data>
+</node>
+<node id="vehicle_28">
+  <data key="d0">vehicle</data>
+  <data key="d1">674</data>
+  <data key="d2">80.054642</data>
+  <data key="d3">RFIC</data>
+  <data key="d4">Honda</data>
+  <data key="d5">28</data>
+</node>
+<node id="plate_RFIC">
+  <data key="d0">plate</data>
+  <data key="d6">RFIC</data>
+</node>
+<node id="vehicle_134">
+  <data key="d0">vehicle</data>
+  <data key="d1">706</data>
+  <data key="d2">84.055237</data>
+  <data key="d3">R1GHT</data>
+  <data key="d4">unknown</data>
+  <data key="d5">134</data>
+</node>
+<node id="plate_R1GHT">
+  <data key="d0">plate</data>
+  <data key="d6">R1GHT</data>
+</node>
+<node id="vehicle_102">
+  <data key="d0">vehicle</data>
+  <data key="d1">750</data>
+  <data key="d2">80.543869</data>
+  <data key="d3">DN60E</data>
+  <data key="d4">Honda</data>
+  <data key="d5">102</data>
+</node>
+<node id="plate_DN60E">
+  <data key="d0">plate</data>
+  <data key="d6">DN60E</data>
+</node>
+<node id="vehicle_42">
+  <data key="d0">vehicle</data>
+  <data key="d1">800</data>
+  <data key="d2">89.681511</data>
+  <data key="d3">07Q565</data>
+  <data key="d4">Ford</data>
+  <data key="d5">42</data>
+</node>
+<node id="plate_07Q565">
+  <data key="d0">plate</data>
+  <data key="d6">07Q565</data>
+</node>
+<node id="vehicle_111">
+  <data key="d0">vehicle</data>
+  <data key="d1">969</data>
+  <data key="d2">82.01033</data>
+  <data key="d3">6DJ49C</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">111</data>
+</node>
+<node id="plate_6DJ49C">
+  <data key="d0">plate</data>
+  <data key="d6">6DJ49C</data>
+</node>
+<node id="vehicle_127">
+  <data key="d0">vehicle</data>
+  <data key="d1">813</data>
+  <data key="d2">86.227417</data>
+  <data key="d3">I768190C</data>
+  <data key="d4">Hyundai</data>
+  <data key="d5">127</data>
+</node>
+<node id="plate_I768190C">
+  <data key="d0">plate</data>
+  <data key="d6">I768190C</data>
+</node>
+<node id="vehicle_141">
+  <data key="d0">vehicle</data>
+  <data key="d1">808</data>
+  <data key="d2">79.520569</data>
+  <data key="d3">JR479</data>
+  <data key="d4">Honda</data>
+  <data key="d5">141</data>
+</node>
+<node id="plate_JR479">
+  <data key="d0">plate</data>
+  <data key="d6">JR479</data>
+</node>
+<node id="vehicle_43">
+  <data key="d0">vehicle</data>
+  <data key="d1">829</data>
+  <data key="d2">86.235542</data>
+  <data key="d3">JRB4B79</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">43</data>
+</node>
+<node id="plate_JRB4B79">
+  <data key="d0">plate</data>
+  <data key="d6">JRB4B79</data>
+</node>
+<node id="vehicle_119">
+  <data key="d0">vehicle</data>
+  <data key="d1">928</data>
+  <data key="d2">85.512039</data>
+  <data key="d3">EVA1836</data>
+  <data key="d4">BMW</data>
+  <data key="d5">119</data>
+</node>
+<node id="plate_EVA1836">
+  <data key="d0">plate</data>
+  <data key="d6">EVA1836</data>
+</node>
+<node id="brand_BMW">
+  <data key="d0">brand</data>
+  <data key="d7">BMW</data>
+</node>
+<node id="vehicle_7">
+  <data key="d0">vehicle</data>
+  <data key="d1">867</data>
+  <data key="d2">86.373749</data>
+  <data key="d3">ADN4164E</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">7</data>
+</node>
+<node id="plate_ADN4164E">
+  <data key="d0">plate</data>
+  <data key="d6">ADN4164E</data>
+</node>
+<node id="vehicle_161">
+  <data key="d0">vehicle</data>
+  <data key="d1">841</data>
+  <data key="d2">78.95137</data>
+  <data key="d3">AD464</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">161</data>
+</node>
+<node id="plate_AD464">
+  <data key="d0">plate</data>
+  <data key="d6">AD464</data>
+</node>
+<node id="vehicle_94">
+  <data key="d0">vehicle</data>
+  <data key="d1">952</data>
+  <data key="d2">83.841225</data>
+  <data key="d3">H8Z8790</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">94</data>
+</node>
+<node id="plate_H8Z8790">
+  <data key="d0">plate</data>
+  <data key="d6">H8Z8790</data>
+</node>
+<node id="vehicle_176">
+  <data key="d0">vehicle</data>
+  <data key="d1">945</data>
+  <data key="d2">77.729568</data>
+  <data key="d3">I6Q3</data>
+  <data key="d4">unknown</data>
+  <data key="d5">176</data>
+</node>
+<node id="plate_I6Q3">
+  <data key="d0">plate</data>
+  <data key="d6">I6Q3</data>
+</node>
+<node id="vehicle_160">
+  <data key="d0">vehicle</data>
+  <data key="d1">959</data>
+  <data key="d2">85.72438</data>
+  <data key="d3">H3Z8790</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">160</data>
+</node>
+<node id="plate_H3Z8790">
+  <data key="d0">plate</data>
+  <data key="d6">H3Z8790</data>
+</node>
+<node id="vehicle_178">
+  <data key="d0">vehicle</data>
+  <data key="d1">973</data>
+  <data key="d2">82.342102</data>
+  <data key="d3">I61349C</data>
+  <data key="d4">unknown</data>
+  <data key="d5">178</data>
+</node>
+<node id="plate_I61349C">
+  <data key="d0">plate</data>
+  <data key="d6">I61349C</data>
+</node>
+<node id="vehicle_139">
+  <data key="d0">vehicle</data>
+  <data key="d1">1039</data>
+  <data key="d2">88.787682</data>
+  <data key="d3">D879</data>
+  <data key="d4">Mahindra</data>
+  <data key="d5">139</data>
+</node>
+<node id="plate_D879">
+  <data key="d0">plate</data>
+  <data key="d6">D879</data>
+</node>
+<node id="vehicle_79">
+  <data key="d0">vehicle</data>
+  <data key="d1">1787</data>
+  <data key="d2">87.325455</data>
+  <data key="d3">HSF5694</data>
+  <data key="d4">Ford</data>
+  <data key="d5">79</data>
+</node>
+<node id="plate_HSF5694">
+  <data key="d0">plate</data>
+  <data key="d6">HSF5694</data>
+</node>
+<node id="vehicle_98">
+  <data key="d0">vehicle</data>
+  <data key="d1">1073</data>
+  <data key="d2">79.9655</data>
+  <data key="d3">VN3Z69</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">98</data>
+</node>
+<node id="plate_VN3Z69">
+  <data key="d0">plate</data>
+  <data key="d6">VN3Z69</data>
+</node>
+<node id="vehicle_19">
+  <data key="d0">vehicle</data>
+  <data key="d1">1077</data>
+  <data key="d2">81.198959</data>
+  <data key="d3">VN3Z69</data>
+  <data key="d4">unknown</data>
+  <data key="d5">19</data>
+</node>
+<node id="vehicle_145">
+  <data key="d0">vehicle</data>
+  <data key="d1">1102</data>
+  <data key="d2">82.808426</data>
+  <data key="d3">DWDB649</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">145</data>
+</node>
+<node id="plate_DWDB649">
+  <data key="d0">plate</data>
+  <data key="d6">DWDB649</data>
+</node>
+<node id="vehicle_163">
+  <data key="d0">vehicle</data>
+  <data key="d1">1777</data>
+  <data key="d2">85.804291</data>
+  <data key="d3">1DSF5694</data>
+  <data key="d4">Honda</data>
+  <data key="d5">163</data>
+</node>
+<node id="plate_1DSF5694">
+  <data key="d0">plate</data>
+  <data key="d6">1DSF5694</data>
+</node>
+<node id="vehicle_199">
+  <data key="d0">vehicle</data>
+  <data key="d1">1212</data>
+  <data key="d2">84.343781</data>
+  <data key="d3">1689738C</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">199</data>
+</node>
+<node id="plate_1689738C">
+  <data key="d0">plate</data>
+  <data key="d6">1689738C</data>
+</node>
+<node id="vehicle_158">
+  <data key="d0">vehicle</data>
+  <data key="d1">1242</data>
+  <data key="d2">83.845261</data>
+  <data key="d3">EX0T</data>
+  <data key="d4">unknown</data>
+  <data key="d5">158</data>
+</node>
+<node id="plate_EX0T">
+  <data key="d0">plate</data>
+  <data key="d6">EX0T</data>
+</node>
+<node id="vehicle_186">
+  <data key="d0">vehicle</data>
+  <data key="d1">1289</data>
+  <data key="d2">85.143303</data>
+  <data key="d3">GDB4174</data>
+  <data key="d4">Honda</data>
+  <data key="d5">186</data>
+</node>
+<node id="plate_GDB4174">
+  <data key="d0">plate</data>
+  <data key="d6">GDB4174</data>
+</node>
+<node id="vehicle_146">
+  <data key="d0">vehicle</data>
+  <data key="d1">1331</data>
+  <data key="d2">74.521042</data>
+  <data key="d3">EIPE</data>
+  <data key="d4">KIA</data>
+  <data key="d5">146</data>
+</node>
+<node id="plate_EIPE">
+  <data key="d0">plate</data>
+  <data key="d6">EIPE</data>
+</node>
+<node id="vehicle_197">
+  <data key="d0">vehicle</data>
+  <data key="d1">1349</data>
+  <data key="d2">87.786148</data>
+  <data key="d3">AH93573</data>
+  <data key="d4">Honda</data>
+  <data key="d5">197</data>
+</node>
+<node id="plate_AH93573">
+  <data key="d0">plate</data>
+  <data key="d6">AH93573</data>
+</node>
+<node id="vehicle_205">
+  <data key="d0">vehicle</data>
+  <data key="d1">1393</data>
+  <data key="d2">80.180771</data>
+  <data key="d3">LU11</data>
+  <data key="d4">unknown</data>
+  <data key="d5">205</data>
+</node>
+<node id="plate_LU11">
+  <data key="d0">plate</data>
+  <data key="d6">LU11</data>
+</node>
+<node id="vehicle_196">
+  <data key="d0">vehicle</data>
+  <data key="d1">1411</data>
+  <data key="d2">85.547661</data>
+  <data key="d3">I8DZ1Z4C</data>
+  <data key="d4">Honda</data>
+  <data key="d5">196</data>
+</node>
+<node id="plate_I8DZ1Z4C">
+  <data key="d0">plate</data>
+  <data key="d6">I8DZ1Z4C</data>
+</node>
+<node id="vehicle_189">
+  <data key="d0">vehicle</data>
+  <data key="d1">1410</data>
+  <data key="d2">87.36615</data>
+  <data key="d3">1706130C</data>
+  <data key="d4">Nissan</data>
+  <data key="d5">189</data>
+</node>
+<node id="plate_1706130C">
+  <data key="d0">plate</data>
+  <data key="d6">1706130C</data>
+</node>
+<node id="vehicle_53">
+  <data key="d0">vehicle</data>
+  <data key="d1">1451</data>
+  <data key="d2">89.709709</data>
+  <data key="d3">JPR1101</data>
+  <data key="d4">Ford</data>
+  <data key="d5">53</data>
+</node>
+<node id="plate_JPR1101">
+  <data key="d0">plate</data>
+  <data key="d6">JPR1101</data>
+</node>
+<node id="vehicle_216">
+  <data key="d0">vehicle</data>
+  <data key="d1">1418</data>
+  <data key="d2">81.639427</data>
+  <data key="d3">RDG1</data>
+  <data key="d4">unknown</data>
+  <data key="d5">216</data>
+</node>
+<node id="plate_RDG1">
+  <data key="d0">plate</data>
+  <data key="d6">RDG1</data>
+</node>
+<node id="vehicle_173">
+  <data key="d0">vehicle</data>
+  <data key="d1">1495</data>
+  <data key="d2">83.711075</data>
+  <data key="d3">FEH9958</data>
+  <data key="d4">Rolls Royce</data>
+  <data key="d5">173</data>
+</node>
+<node id="plate_FEH9958">
+  <data key="d0">plate</data>
+  <data key="d6">FEH9958</data>
+</node>
+<node id="vehicle_147">
+  <data key="d0">vehicle</data>
+  <data key="d1">1555</data>
+  <data key="d2">87.728157</data>
+  <data key="d3">HLD1116</data>
+  <data key="d4">Honda</data>
+  <data key="d5">147</data>
+</node>
+<node id="plate_HLD1116">
+  <data key="d0">plate</data>
+  <data key="d6">HLD1116</data>
+</node>
+<node id="vehicle_95">
+  <data key="d0">vehicle</data>
+  <data key="d1">1581</data>
+  <data key="d2">81.027115</data>
+  <data key="d3">EAJ96</data>
+  <data key="d4">Honda</data>
+  <data key="d5">95</data>
+</node>
+<node id="plate_EAJ96">
+  <data key="d0">plate</data>
+  <data key="d6">EAJ96</data>
+</node>
+<node id="vehicle_57">
+  <data key="d0">vehicle</data>
+  <data key="d1">1602</data>
+  <data key="d2">85.611588</data>
+  <data key="d3">1727967C</data>
+  <data key="d4">Mahindra</data>
+  <data key="d5">57</data>
+</node>
+<node id="plate_1727967C">
+  <data key="d0">plate</data>
+  <data key="d6">1727967C</data>
+</node>
+<node id="vehicle_128">
+  <data key="d0">vehicle</data>
+  <data key="d1">1623</data>
+  <data key="d2">85.741203</data>
+  <data key="d3">JNF472</data>
+  <data key="d4">Honda</data>
+  <data key="d5">128</data>
+</node>
+<node id="plate_JNF472">
+  <data key="d0">plate</data>
+  <data key="d6">JNF472</data>
+</node>
+<node id="vehicle_150">
+  <data key="d0">vehicle</data>
+  <data key="d1">1706</data>
+  <data key="d2">86.606079</data>
+  <data key="d3">JBY6718</data>
+  <data key="d4">Mahindra</data>
+  <data key="d5">150</data>
+</node>
+<node id="plate_JBY6718">
+  <data key="d0">plate</data>
+  <data key="d6">JBY6718</data>
+</node>
+<node id="vehicle_217">
+  <data key="d0">vehicle</data>
+  <data key="d1">1726</data>
+  <data key="d2">83.253792</data>
+  <data key="d3">H706</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">217</data>
+</node>
+<node id="plate_H706">
+  <data key="d0">plate</data>
+  <data key="d6">H706</data>
+</node>
+<node id="vehicle_179">
+  <data key="d0">vehicle</data>
+  <data key="d1">1768</data>
+  <data key="d2">88.459526</data>
+  <data key="d3">GZL8951</data>
+  <data key="d4">Honda</data>
+  <data key="d5">179</data>
+</node>
+<node id="plate_GZL8951">
+  <data key="d0">plate</data>
+  <data key="d6">GZL8951</data>
+</node>
+<node id="vehicle_244">
+  <data key="d0">vehicle</data>
+  <data key="d1">1767</data>
+  <data key="d2">87.598465</data>
+  <data key="d3">GZL8951</data>
+  <data key="d4">unknown</data>
+  <data key="d5">244</data>
+</node>
+<node id="vehicle_144">
+  <data key="d0">vehicle</data>
+  <data key="d1">1764</data>
+  <data key="d2">85.413902</data>
+  <data key="d3">R1GH</data>
+  <data key="d4">KIA</data>
+  <data key="d5">144</data>
+</node>
+<node id="plate_R1GH">
+  <data key="d0">plate</data>
+  <data key="d6">R1GH</data>
+</node>
+<node id="vehicle_213">
+  <data key="d0">vehicle</data>
+  <data key="d1">1841</data>
+  <data key="d2">90.756592</data>
+  <data key="d3">A32LNS</data>
+  <data key="d4">Hyundai</data>
+  <data key="d5">213</data>
+</node>
+<node id="plate_A32LNS">
+  <data key="d0">plate</data>
+  <data key="d6">A32LNS</data>
+</node>
+<node id="vehicle_219">
+  <data key="d0">vehicle</data>
+  <data key="d1">1817</data>
+  <data key="d2">88.306709</data>
+  <data key="d3">JRU6615</data>
+  <data key="d4">Toyota</data>
+  <data key="d5">219</data>
+</node>
+<node id="plate_JRU6615">
+  <data key="d0">plate</data>
+  <data key="d6">JRU6615</data>
+</node>
+<node id="vehicle_109">
+  <data key="d0">vehicle</data>
+  <data key="d1">1911</data>
+  <data key="d2">92.477722</data>
+  <data key="d3">Z21MHJ</data>
+  <data key="d4">Ford</data>
+  <data key="d5">109</data>
+</node>
+<node id="plate_Z21MHJ">
+  <data key="d0">plate</data>
+  <data key="d6">Z21MHJ</data>
+</node>
+<node id="vehicle_227">
+  <data key="d0">vehicle</data>
+  <data key="d1">1900</data>
+  <data key="d2">86.179962</data>
+  <data key="d3">669Z7</data>
+  <data key="d4">Ford</data>
+  <data key="d5">227</data>
+</node>
+<node id="plate_669Z7">
+  <data key="d0">plate</data>
+  <data key="d6">669Z7</data>
+</node>
+<edge source="vehicle_0" target="plate_MD6723">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_0" target="brand_Mercedes">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_14" target="plate_JSE4076">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_14" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_6" target="plate_520605C">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_6" target="brand_KIA">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_27" target="plate_RDGH">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_27" target="brand_unknown">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_5" target="plate_JMG4726">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_5" target="brand_Hyundai">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_16" target="plate_NS7AZD">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_16" target="brand_Volkswagen">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_54" target="plate_110101">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_54" target="brand_Ford">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_3" target="plate_E0G35">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_3" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_18" target="plate_HUZ809">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_18" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_73" target="plate_RIGHT">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_73" target="brand_unknown">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_82" target="plate_RIGTL">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_82" target="brand_unknown">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_21" target="plate_RUMIAPL">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_21" target="brand_Mercedes">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_26" target="plate_E40650">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_26" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_12" target="plate_HYF37Z3">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_12" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_41" target="plate_0YF466">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_41" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_25" target="plate_AVN5449">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_25" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_117" target="plate_RDGHT">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_117" target="brand_Rolls Royce">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_103" target="plate_77337">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_103" target="brand_Ford">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_8" target="plate_1759995C">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_8" target="brand_Nissan">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_40" target="plate_070565">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_40" target="brand_Mahindra">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_92" target="plate_JP5919">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_92" target="brand_unknown">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_69" target="plate_HMM8568">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_69" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_63" target="plate_17Z7967C">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_63" target="brand_Chevrolet">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_28" target="plate_RFIC">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_28" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_134" target="plate_R1GHT">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_134" target="brand_unknown">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_102" target="plate_DN60E">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_102" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_42" target="plate_07Q565">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_42" target="brand_Ford">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_111" target="plate_6DJ49C">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_111" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_127" target="plate_I768190C">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_127" target="brand_Hyundai">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_141" target="plate_JR479">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_141" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_43" target="plate_JRB4B79">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_43" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_119" target="plate_EVA1836">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_119" target="brand_BMW">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_7" target="plate_ADN4164E">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_7" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_161" target="plate_AD464">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_161" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_94" target="plate_H8Z8790">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_94" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_176" target="plate_I6Q3">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_176" target="brand_unknown">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_160" target="plate_H3Z8790">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_160" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_178" target="plate_I61349C">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_178" target="brand_unknown">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_139" target="plate_D879">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_139" target="brand_Mahindra">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_79" target="plate_HSF5694">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_79" target="brand_Ford">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_98" target="plate_VN3Z69">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_98" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_19" target="plate_VN3Z69">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_19" target="brand_unknown">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_145" target="plate_DWDB649">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_145" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_163" target="plate_1DSF5694">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_163" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_199" target="plate_1689738C">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_199" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_158" target="plate_EX0T">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_158" target="brand_unknown">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_186" target="plate_GDB4174">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_186" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_146" target="plate_EIPE">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_146" target="brand_KIA">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_197" target="plate_AH93573">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_197" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_205" target="plate_LU11">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_205" target="brand_unknown">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_196" target="plate_I8DZ1Z4C">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_196" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_189" target="plate_1706130C">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_189" target="brand_Nissan">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_53" target="plate_JPR1101">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_53" target="brand_Ford">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_216" target="plate_RDG1">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_216" target="brand_unknown">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_173" target="plate_FEH9958">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_173" target="brand_Rolls Royce">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_147" target="plate_HLD1116">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_147" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_95" target="plate_EAJ96">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_95" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_57" target="plate_1727967C">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_57" target="brand_Mahindra">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_128" target="plate_JNF472">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_128" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_150" target="plate_JBY6718">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_150" target="brand_Mahindra">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_217" target="plate_H706">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_217" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_179" target="plate_GZL8951">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_179" target="brand_Honda">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_244" target="plate_GZL8951">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_244" target="brand_unknown">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_144" target="plate_R1GH">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_144" target="brand_KIA">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_213" target="plate_A32LNS">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_213" target="brand_Hyundai">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_219" target="plate_JRU6615">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_219" target="brand_Toyota">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_109" target="plate_Z21MHJ">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_109" target="brand_Ford">
+  <data key="d8">has_brand</data>
+</edge>
+<edge source="vehicle_227" target="plate_669Z7">
+  <data key="d8">has_plate</data>
+</edge>
+<edge source="vehicle_227" target="brand_Ford">
+  <data key="d8">has_brand</data>
+</edge>
+</graph></graphml>
